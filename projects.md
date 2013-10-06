@@ -3,9 +3,7 @@ layout: default
 permalink: /projects/
 ---
 
-## From DC Legal Hackathons
-
-### Fall 2013 Legal Hackathon
+## Fall 2013 Legal Hackathon Projects
 * [Access to Justice; LSC mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)
 * [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)
 * [A glossary for the United States](https://github.com/unitedstates/glossary)
@@ -13,7 +11,7 @@ permalink: /projects/
 * [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit)
 * [Adds links to legal citations within markdown text](https://github.com/adelevie/citation-linker)
 
-## Past Projects by DC Legal Hacker Members
+## Past Projects by DC Legal Hackers
 
 * [The Open Law DC Project](https://github.com/openlawdc/)
 
