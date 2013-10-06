@@ -43,7 +43,7 @@ header {
 }
 
 header h1 {
-  font-size: 64px;
+  font-size: 56px;
   line-height: 1;
   font-weight: bold;
   font-family: 'Open Baskerville 0.0.53';
@@ -54,7 +54,6 @@ header h1 {
 
 header h2 {
   font-size: 36px;
-  font-weight: 300;
   color: #000000;
 }
 
