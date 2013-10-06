@@ -57,25 +57,6 @@ header h2 {
   color: #000000;
 }
 
-/* Glyph, by Harry Roberts */
-
-hr {		
-    padding: 0;
-    border: 0;
-    width: 100%;
-    border-top: medium double #666666;
-    color: #666666;
-    text-align: center;
-}
-hr:after {
-    content: "§";
-    display: inline-block;
-    position: relative; 
-    top: -0.7em;  
-    font-size: 1.5em;
-    padding: 0 0.25em;
-    background: white;
-}
 /* Main Content
 */
 
