@@ -7,7 +7,6 @@ permalink: /projects/
 ### From DC Legal Hackathons
 
 #### Fall 2013 Legal Hackathon
-* [GitHub 101](=https://github.com/dclegalhackers/dclegalhackathon/blob/master/GitHub101.md)
 * [Access to Justice; LSC mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)
 * [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)
 * [A glossary for the United States](https://github.com/unitedstates/glossary)
