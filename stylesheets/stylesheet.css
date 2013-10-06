@@ -44,12 +44,12 @@ header {
 }
 
 header h1 {
-  font-size: 36px;
+  font-size: 40px;
   line-height: 1.5;
   /*margin: 0 0 0 -40px;*/
   font-weight: bold;
   font-family: 'Open Baskerville 0.0.53';
-  color: #3E6478;
+  color: #000000;
   /*text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);*/
@@ -109,17 +109,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main_content h4 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 #main_content h5 {
-  font-size: 14px;
+  font-size: 18px;
   text-transform: uppercase;
   margin: 0 0 5px 0;
 }
 
 #main_content h6 {
-  font-size: 12px;
+  font-size: 16px;
   text-transform: uppercase;
   color: #000000;
   margin: 0 0 5px 0;
@@ -147,7 +147,7 @@ ul li:before {
 blockquote {
   color: #aaa;
   padding-left: 10px;
-  border-left: 1px dotted #666;
+  border-left: 1px dotted #000000;
 }
 
 pre {
@@ -198,7 +198,7 @@ hr {
   border-bottom: 2px solid rgba(0, 0, 0, 0.7);
   border-top: 2px solid rgba(0, 0, 0, 1);
   color: rgba(255, 255, 255, 0.8);
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Open Baskerville 0.0.53';
   font-weight: bold;
   font-size: 13px;
   text-decoration: none;
