@@ -10,7 +10,7 @@ permalink: /events/
 ## Monthly Meetup Events [The first Wednesday of each month]  
 
 * 11/6/2013: #LegalHack Access to Justice
-  * At Canvas Coworking. LSC discusses hackathon follow up, Fronline SMS speaks?
+  * _At Canvas Coworking. LSC discusses hackathon follow up, Fronline SMS speaks?_
 * 12/4/2013: #LegalHack the Sharing Economy, TBD 
 * 1/8/2013: #LegalHack Broadband, TBD 
 
