@@ -44,12 +44,12 @@ header {
 }
 
 header h1 {
-  font-size: 52px;
+  font-size: 56px;
   line-height: 1.5;
   font-weight: bold;
   font-family: 'Open Baskerville 0.0.53';
   color: #000000;
-  letter-spacing: +3px;
+  letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 }
 
