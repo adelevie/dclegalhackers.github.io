@@ -3,7 +3,7 @@ layout: default
 permalink: /resources/
 ---
 
-#### Github 101
+### Github 101
 * [Signing up for GitHub](https://github.com/dclegalhackers/dclegalhackathon/blob/master/GitHub101.md)
 * [GitHub Glossary](https://help.github.com/articles/github-glossary)
 * [GitHub basics slideshow](http://ben.balter.com/open-sourcing-government/#/git)
@@ -18,7 +18,7 @@ permalink: /resources/
 
 ### Legal Hacking & the World 
 
-* Legal Informatics Blogs 
+* Legal Tech Blogs 
 * Legal Tech Startups 
 
 ### DC's Tech Community 
