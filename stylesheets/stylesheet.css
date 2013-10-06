@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 li {
-  line-height: 1.4 ;
+  line-height: 1.5 ;
 }
 
 /* Header, <header>
@@ -46,13 +46,9 @@ header {
 header h1 {
   font-size: 52px;
   line-height: 1.5;
-  /*margin: 0 0 0 -40px;*/
   font-weight: bold;
   font-family: 'Open Baskerville 0.0.53';
   color: #000000;
-  /*text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);*/
   letter-spacing: +3px;
   -webkit-font-smoothing: antialiased;
 }
@@ -63,13 +59,6 @@ header h1 {
   font-weight: 300;
   color: #000000;
 }
-/*
-#downloads .btn {
-  display: inline-block;
-  text-align: center;
-  margin: 0;
-}
-*/
 
 /* Main Content
 */
@@ -128,18 +117,17 @@ ul li {
 }
 
 ul li:before {
-  content: ">>";
   font-family: 'Open Baskerville 0.0.53';
-  font-size: 16px;
+  font-size: 20px;
   color: #000000;
   margin-left: -37px;
   margin-right: 21px;
-  line-height: 16px;
+  line-height: 20px;
 }
 
 blockquote {
   color: #aaa;
-  padding-left: 14px;
+  padding-left: 16px;
   border-left: 1px dotted #000000;
 }
 
