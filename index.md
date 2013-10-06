@@ -12,10 +12,10 @@ A legal hacker is someone who cares about the intersection of law and technology
 
 ## Organizers
 
-* [rebeccawilliams](http://github.com/rebeccawilliams)
-* [jamesondempsey](http://github.com/jamesondempsey)
-* [adelevie](http://github.com/adelevie)
-* [benbalter](http://github.com/benbalter)
+* [Rebecca Williams](https://github.com/rebeccawilliams)
+* [Jameson Dempsey](https://github.com/jamesondempsey)
+* [Alan Delevie](https://github.com/adelevie)
+* [Ben Balter](https://github.com/benbalter)
 
 ## Friends & Family 
 
