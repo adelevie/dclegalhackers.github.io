@@ -57,17 +57,14 @@ header h2 {
   color: #000000;
 }
 
-  /* Glyph, by Harry Roberts */
-
-hr {		
+hr.style-eight {
     padding: 0;
-    border: 0;
-    width: 100%;
-    border-top: medium double #666666;
-    color: #666666;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
     text-align: center;
 }
-hr:after {
+hr.style-eight:after {
     content: "§";
     display: inline-block;
     position: relative; 
