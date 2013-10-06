@@ -4,6 +4,9 @@ title: Projects from DC Legal Hackers Hackathons
 permalink: /projects/
 ---
 
+### From DC Legal Hacker Hackathons
+
+#### DC Legal Hackathon 1
 * [GitHub 101](=https://github.com/dclegalhackers/dclegalhackathon/blob/master/GitHub101.md)
 * [Access to Justice; LSC mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)
 * [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)
@@ -12,6 +15,7 @@ permalink: /projects/
 * [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit)
 * [Adds links to legal citations within markdown text](https://github.com/adelevie/citation-linker)
 
-#### Past Projects by Members
+#### Past Projects by DC Legal Hacker Members
 
 * [The Open Law DC Project](https://github.com/openlawdc/)
+
