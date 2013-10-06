@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Events
 permalink: /events/
 ---
 
@@ -18,7 +17,7 @@ A legal hackathon is an event that brings together teams of lawyers, policymaker
 
 ### Workshops
 
-#### Past Events
+### Past Events
 
 * DC Legal Hackers FIRST Legal Hackathon 
 * Issue Spotting Happy Hour 
