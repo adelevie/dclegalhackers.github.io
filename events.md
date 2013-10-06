@@ -9,10 +9,9 @@ permalink: /events/
 
 ## Monthly Meetup Events
 
-* 11/6/2013: #LegalHack Access to Justice
-  * At Canvas Coworking. LSC discusses hackathon follow up
-* 12/4/2013: #LegalHack the Sharing Economy, TBD 
-* 1/8/2013: #LegalHack Broadband, TBD 
+* 11/6/2013: [#LegalHack Access to Justice](http://www.meetup.com/DCLegalHackers/events/142943202/)
+* 12/4/2013: [#LegalHack the Sharing Economy](http://www.meetup.com/DCLegalHackers/events/142943372/)
+* 1/8/2013: [#LegalHack Broadband](http://www.meetup.com/DCLegalHackers/events/142945462/)
 
 ## Quartlerly Legal Hackathons  
 
