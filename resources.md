@@ -16,7 +16,7 @@ permalink: /resources/
 * For Free IRL 
 * For $ IRL 
 
-### Legal Hacking & the World 
+### Legal Hacking + the World 
 
 * Legal Tech Blogs 
 * Legal Tech Startups 
