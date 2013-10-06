@@ -8,6 +8,8 @@ Technology bustles ahead, but our legal tools and tech related policy hardly ref
 
 #### What is a "legal hacker"?
 
+A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration. Indeed, "thinking like a lawyer" is just like "thinking like a hacker." Hackers use their deep understanding of technology and programming to explore and demonstrate the possibilities -- and vulnerabilities -- of new and existing technologies. Lawyers, similarly, use their understanding of laws, regulations, and precedent to develop creative solutions to many of the most important issues facing our society. As a result, and borrowing from Professor Lessig, to the extent that "law is code," lawyers truly do "hack" the law.  
+
 ### Organizers & Members 
 
 * [rebeccawilliams](http://github.com/rebeccawilliams)
