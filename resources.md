@@ -4,10 +4,10 @@ layout: default
 
 #### Github 101
 * Signing up for GitHub
-* GitHub basics slideshow
-* GitHub Glossary 
-* TryGit
-* Or Ask Ben! 
+* [GitHub Glossary](https://help.github.com/articles/github-glossary)
+* [GitHub basics slideshow](http://ben.balter.com/open-sourcing-government/#/git)
+* [TryGit](http://try.github.io/levels/1/challenges/1)
+* [Or Ask Ben!](https://github.com/benbalter/feedback)
 
 ### Learn to Code 
 * For Free & Online
