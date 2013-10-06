@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### About DC Legal Hackers
+### About DC Legal Hackers
 
 Technology bustles ahead, but our legal tools and tech related policy hardly reflect this. What gives? This monthly meetup challenges Legal Hackers to catch legal tools and policy up with technology. Join us as we tackle these tough problems and create tangible solutions, through: discussions, speakers, demos, lessons (yes, coding), and quarterly hackathons. There are two requirements to be Legal Hacker; all you need is attention and analytical curiosity. Our discussions will be aimed at creating proposed resolutions on the spot, so bring your brains and your portable computing devices!
 
