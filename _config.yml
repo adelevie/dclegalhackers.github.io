@@ -1,0 +1,7 @@
+name: DC Legal Hackers
+tagline: "A budding website of #LegalHack."
+
+# Build settings
+pymgemnts: true
+exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile", "Rakefile", "readme.md"]
+markdown: kramdown
