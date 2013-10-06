@@ -58,15 +58,16 @@ header h2 {
 }
 
 /* Glyph, by Harry Roberts */
-		
-hr.style-eight {
+
+hr {		
     padding: 0;
-    border: none;
-    border-top: medium double #333;
-    color: #333;
+    border: 0;
+    width: 100%;
+    border-top: medium double #666666;
+    color: #666666;
     text-align: center;
 }
-hr.style-eight:after {
+hr:after {
     content: "§";
     display: inline-block;
     position: relative; 
@@ -75,7 +76,6 @@ hr.style-eight:after {
     padding: 0 0.25em;
     background: white;
 }
-
 /* Main Content
 */
 
@@ -209,6 +209,6 @@ a {
 }
 
 /* Nav */
-.nav { margin: 0; padding: 0; font-size: 36px;}
+.nav { margin: 0; padding: 0; font-size: 20px;}
 .nav li { list-style: none; display: inline; margin-right: 20px; }
 .nav li:before { content: none; }
