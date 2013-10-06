@@ -8,7 +8,7 @@ permalink: /events/
 
 ### Monthly Meetup Events
 
-[Join us!](http://www.meetup.com/DCLegalHackers).
+[Join us!](http://www.meetup.com/DCLegalHackers)
 
 ### Quartlerly Legal Hackathons
 
