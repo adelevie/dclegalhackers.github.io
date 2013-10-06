@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: 'Open Baskerville 0.0.53';
   color: #000000;
-  letter-spacing: -0.03em;
+  letter-spacing: +0.03em;
 }
 
 #main_content h1 {
