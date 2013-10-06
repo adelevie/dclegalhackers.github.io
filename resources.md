@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: /events/
+permalink: /resources/
 ---
 
 #### Github 101
-* Signing up for GitHub
+* [Signing up for GitHub](https://github.com/dclegalhackers/dclegalhackathon/blob/master/GitHub101.md)
 * [GitHub Glossary](https://help.github.com/articles/github-glossary)
 * [GitHub basics slideshow](http://ben.balter.com/open-sourcing-government/#/git)
 * [TryGit](http://try.github.io/levels/1/challenges/1)
