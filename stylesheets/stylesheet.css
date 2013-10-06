@@ -5,7 +5,7 @@ body {
   color: #000000;
   font: 16px;
   line-height: 1.5;
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: 'Open Baskerville 0.0.53', serif;
 }
 
 /* General & 'Reset' Stuff */
@@ -48,7 +48,7 @@ header h1 {
   line-height: 1.5;
   /*margin: 0 0 0 -40px;*/
   font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: 'Open Baskerville 0.0.53';
   color: #3E6478;
   /*text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -88,7 +88,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: 'Open Baskerville 0.0.53', Terminal, monospace;
   color: #3E6478;
   letter-spacing: -0.03em;
   /*text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
@@ -136,7 +136,7 @@ ul li {
 
 ul li:before {
   content: ">>";
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: 'Open Baskerville 0.0.53', Terminal, monospace;
   font-size: 13px;
   color: #000000;
   margin-left: -37px;
@@ -216,11 +216,6 @@ hr {
   height: 16px;
   margin: 1px 8px 0 0;
   float: left;
-}
-
-.btn-github .icon {
-  opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
 /* Links
