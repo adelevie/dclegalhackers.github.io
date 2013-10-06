@@ -13,5 +13,5 @@ permalink: /projects/
 
 ## Past Projects by DC Legal Hackers
 
-* [The Open Law DC Project](https://github.com/openlawdc/)
+* [Open Law DC](https://github.com/openlawdc/)
 
