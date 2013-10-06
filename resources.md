@@ -21,7 +21,7 @@ permalink: /resources/
 * Legal Tech Blogs 
 * Legal Tech Tools 
 
-### DC Legal Tech Community 
+## The DC Legal Tech Community 
 
 #### DC Tech 
 
