@@ -4,7 +4,7 @@ body {
   background: #FFFFFF;
   color: #000000;
   font: 36px;
-  line-height: 1;
+  line-height: 1.5;
   font-family: 'Open Baskerville 0.0.53';
 }
 
@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 li {
-  line-height: 1;
+  line-height: 1.5;
 }
 
 /* Header, <header>
