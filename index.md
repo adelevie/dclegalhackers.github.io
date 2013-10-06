@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### About 
+## About 
 Technology bustles ahead, but our legal tools and tech related policy hardly reflect this. What gives? This monthly meetup challenges Legal Hackers to catch legal tools and policy up with technology. Join us as we tackle these tough problems and create tangible solutions, through: discussions, speakers, demos, lessons (yes, coding), and quarterly hackathons. Our discussions will be aimed at creating proposed resolutions on the spot, so bring your brains and your portable computing devices!
 
 ### What is a "legal hacker"?
