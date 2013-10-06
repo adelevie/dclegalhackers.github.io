@@ -3,11 +3,11 @@ layout: default
 permalink: /events/
 ---
 
-## Next Event: November 6th, 7pm #LegalHack Access to Justice @ Canvas, [RSVP and more info](http://www.meetup.com/DCLegalHackers/events/142943202/)
+### Next Event: November 6th, 7pm #LegalHack Access to Justice @ Canvas, [RSVP and more info](http://www.meetup.com/DCLegalHackers/events/142943202/)
 
 ## Monthly Meetup Events
 
-[Join us!](http://www.meetup.com/DCLegalHackers)
+* [Join us!](http://www.meetup.com/DCLegalHackers)
 
 ## Quartlerly Legal Hackathons
 
