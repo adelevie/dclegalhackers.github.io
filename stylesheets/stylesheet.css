@@ -246,3 +246,8 @@ a {
 .cf {
   zoom:1;
 }
+
+/* Nav */
+.nav { margin: 0; padding: 0;}
+.nav li { list-style: none; display: inline; margin-right: 20px; }
+.nav li:before { content: none; }
