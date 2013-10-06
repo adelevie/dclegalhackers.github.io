@@ -3,11 +3,16 @@ layout: default
 permalink: /events/
 ---
 
+#[Join us!](http://www.meetup.com/DCLegalHackers)  
+
 ###Next Event: November 6th, 7pm #LegalHack Access to Justice @ Canvas, [RSVP and more info](http://www.meetup.com/DCLegalHackers/events/142943202/)
 
-## Monthly Meetup Events  
+## Monthly Meetup Events [The first Wednesday of each month]  
 
-* [Join us!](http://www.meetup.com/DCLegalHackers)  
+* 11/6/2013: LegalHack Access to Justice
+  * At Canvas, LSC discusses hackathon follow up, Fronline SMS speaks?
+* 12/4/2013: LegalHack the Sharing Economy, TBD 
+* 1/8/2013: LegalHack Broadband, TBD 
 
 ## Quartlerly Legal Hackathons  
 
