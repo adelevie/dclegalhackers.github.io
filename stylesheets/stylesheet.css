@@ -59,9 +59,9 @@ header h2 {
 
 hr {
     padding: 0;
-    border: 
-    border-top: medium double #333;
-    color: #333;
+    border: 0;
+    border-top: medium double #000000;
+    color: #000000;
     text-align: center;
 }
 hr:after {
