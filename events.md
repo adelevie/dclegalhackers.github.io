@@ -13,7 +13,7 @@ permalink: /events/
 * 12/4/2013: [#LegalHack the Sharing Economy](http://www.meetup.com/DCLegalHackers/events/142943372/)
 * 1/8/2013: [#LegalHack Broadband](http://www.meetup.com/DCLegalHackers/events/142945462/)
 
-## Quartlerly Legal Hackathons  
+## Quarterly Legal Hackathons  
 
 ### What's a "legal hackathon"?  
 
