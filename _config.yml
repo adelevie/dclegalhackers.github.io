@@ -2,6 +2,6 @@ name: DC Legal Hackers
 tagline: "Improving law with technology and technology with law."
 
 # Build settings
-pymgemnts: true
+pygments: true
 exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile", "Rakefile", "readme.md"]
 markdown: kramdown
