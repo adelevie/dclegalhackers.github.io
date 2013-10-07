@@ -11,10 +11,11 @@ permalink: /resources/
 * [Or Ask Ben!](https://github.com/benbalter/feedback)
 
 ## Learn to Code 
-* For Free & Online
-* For $ & Online 
-* For Free IRL 
-* For $ IRL 
+* [Bentobox.io](http://www.bentobox.io/) _Roundup of Resources_
+* [Code School](http://www.codeschool.com)
+* [Code.org](http://www.code.org)  _Roundup of Resources_
+* [Learn the Hard Way](http://learncodethehardway.org/)
+* and more crowdsourced [here](https://groups.diigo.com/group/learning-to-code)!
 
 ## Legal Hacking 
 
