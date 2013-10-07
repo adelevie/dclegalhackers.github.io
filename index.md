@@ -13,7 +13,7 @@ A legal hacker is someone who cares about the intersection of law and technology
 
 * [Rebecca Williams](https://github.com/rebeccawilliams)
 * [Jameson Dempsey](https://github.com/jamesondempsey)
-* [Alan Delevie](https://github.com/adelevie)
+* [Alan deLevie](https://github.com/adelevie)
 * [Ben Balter](https://github.com/benbalter)
 
 ## Friends & Family 
