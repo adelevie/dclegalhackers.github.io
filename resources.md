@@ -26,7 +26,7 @@ permalink: /resources/
 
 #### DC Tech 
 
-* Meetup Events 
+* [Meetup Events](https://github.com/dclegalhackers/dclegalhackathon/blob/master/DC-tech-events.md)
 
 #### DC Law
 
