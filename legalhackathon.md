@@ -30,7 +30,7 @@ Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hac
 
 #### [US Glossary Annotation project](https://github.com/unitedstates/glossary)  
 
-<iframe width="620" height="515" src="http://www.youtube.com/embed/SlmDEDNV7d0" frameborder="0" allowfullscreen></iframe>  
+<iframe width="600" height="515" src="http://www.youtube.com/embed/SlmDEDNV7d0" frameborder="0" allowfullscreen></iframe>  
 
 #### [new DC Code Parsing](https://github.com/openlawdc/dc-decoded)  
 
