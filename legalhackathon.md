@@ -8,7 +8,7 @@ permalink: /legalhackathon/
 
 Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hackathon at Fastcase. 
 
-<img src="http://24.media.tumblr.com/573ef5b8b1e9a76305d2d8a9cbad478d/tumblr_muexg6SkcN1s13242o5_1280.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="http://24.media.tumblr.com/573ef5b8b1e9a76305d2d8a9cbad478d/tumblr_muexg6SkcN1s13242o5_1280.jpg" alt="Drawing" style="width: 600px;"/>
 
 ### Participants 
 
@@ -21,7 +21,7 @@ Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hac
 
 ### Projects Hacked On 
 
-<img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>
 
 * [LSC Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)
 
