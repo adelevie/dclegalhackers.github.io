@@ -24,8 +24,9 @@ Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hac
 ### Projects Hacked On 
 
 #### [LSC Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)  
-<img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>
-<iframe width="600" height="515" src="https://www.youtube.com/watch?v=R3D5ncONdhI" frameborder="0" allowfullscreen></iframe>  
+<img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>  
+
+<iframe width="600" height="515" src="http://www.youtube.com/watch?v=R3D5ncONdhI" frameborder="0" allowfullscreen></iframe>  
 
 #### [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)  
 
