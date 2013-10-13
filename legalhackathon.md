@@ -4,7 +4,7 @@ permalink: /legalhackathon/
 ---
 
 
-## Fall 2013 Legal Hackathon 
+# Fall 2013 Legal Hackathon 
 
 Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hackathon at Fastcase. 
 
