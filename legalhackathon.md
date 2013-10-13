@@ -23,16 +23,15 @@ Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hac
 
 <img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>
 
-* [LSC Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)
+* [LSC Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)  
 
-* [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)
+* [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)  
 
-* [US Glossary Annotation project](https://github.com/unitedstates/glossary)
+* [US Glossary Annotation project](https://github.com/unitedstates/glossary)  
 
+* [new DC Code Parsing](https://github.com/openlawdc/dc-decoded)  
 
-* [new DC Code Parsing](https://github.com/openlawdc/dc-decoded)
+* [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker)  
 
-* [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker)
-
-* [DC Legal Hackers Website building](https://github.com/dclegalhackers/dclegalhackers.github.io)
+* [DC Legal Hackers Website building](https://github.com/dclegalhackers/dclegalhackers.github.io)  
 
