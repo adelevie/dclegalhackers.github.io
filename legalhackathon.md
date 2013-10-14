@@ -14,7 +14,8 @@ Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hac
 
 <img src="http://31.media.tumblr.com/5fa89fa8be5e50b90d0d036c2f7946a6/tumblr_muexg6SkcN1s13242o1_1280.jpg" alt="Drawing" style="width: 600px;"/>
 
-* [GitHub 101](https://github.com/dclegalhackers/dclegalhackathon/blob/master/GitHub101.md)
+The day started at 9 a.m. with bagels, meeting, and greeting. Participants included familar faces from the Issue Spotting happy hour, Hypothes.is / Open Gov Foundation legal annotation workshop, and Code for DC, as well as first time #LegalHackers, including DC's Open Govermentment Director, law students, and local law/tech community. 
+The [Agenda]( ddfgfdgdf) was fairly flexible with a [GitHub 101](https://github.com/dclegalhackers/dclegalhackathon/blob/master/GitHub101.md) session for non-techies hosted by DC Legal Hackers Co-organizer, and major proponent of this hackathon, Ben Balter. Interested in learnin
 
 ### Projects Hacked On 
 
