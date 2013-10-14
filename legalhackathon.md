@@ -14,13 +14,19 @@ Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hac
 
 <img src="http://31.media.tumblr.com/5fa89fa8be5e50b90d0d036c2f7946a6/tumblr_muexg6SkcN1s13242o1_1280.jpg" alt="Drawing" style="width: 600px;"/>
 
-The day started at 9 a.m. with bagels, meeting, and greeting. Participants included familar faces from the Issue Spotting happy hour, Hypothes.is / Open Gov Foundation legal annotation workshop, and Code for DC, as well as first time #LegalHackers, including DC's Open Govermentment Director, law students, and local law/tech community. 
-The [Agenda]( ddfgfdgdf) was fairly flexible with a [GitHub 101](https://github.com/dclegalhackers/dclegalhackathon/blob/master/GitHub101.md) session for non-techies hosted by DC Legal Hackers Co-organizer, and major proponent of this hackathon, Ben Balter. Interested in learnin
+The [Legal Hackathon](https://github.com/dclegalhackers/dclegalhackathon/) started at 9 a.m. with bagels, meeting and greeting. [Participants](https://github.com/dclegalhackers/dclegalhackathon/blob/master/Participants.md) included familar faces from the Issue Spotting happy hour, Hypothes.is / Open Gov Foundation legal annotation workshop, and Code for DC, as well as first time #LegalHackers, including DC's Open Govermentment Director, law students, and local law/tech community. 
+The [Agenda](https://github.com/dclegalhackers/dclegalhackathon/blob/master/Agenda.md) was fairly flexible with a [GitHub 101](https://github.com/dclegalhackers/dclegalhackathon/blob/master/GitHub101.md) session for non-techies hosted by DC Legal Hackers Co-organizer, and major proponent of this hackathon, Ben Balter.
+
+<blockquote class="twitter-tweet"><p><a href="https://twitter.com/search?q=%23LegalHack&amp;src=hash">#LegalHack</a> New to GitHub? Here are some resources that may help: <a href="https://t.co/pD65QueR1e">https://t.co/pD65QueR1e</a>, <a href="http://t.co/PqnCj46HEO">http://t.co/PqnCj46HEO</a>, <a href="http://t.co/yZ5d13hUQ8">http://t.co/yZ5d13hUQ8</a></p>&mdash; Ben Balter (@BenBalter) <a href="https://twitter.com/BenBalter/statuses/386489991247175681">October 5, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 ### Projects Hacked On 
 
 #### [LSC Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)  
 <img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>  
+
+<blockquote class="twitter-tweet"><p>YES! <a href="https://twitter.com/LSCtweets">@LSCtweets</a> is now on Github. <a href="http://t.co/BYhl2KlCzL">http://t.co/BYhl2KlCzL</a> with a project up and everything. <a href="https://twitter.com/search?q=%23LegalHack&amp;src=hash">#LegalHack</a></p>&mdash; Jessie Posilkin (@jposi) <a href="https://twitter.com/jposi/statuses/386509591413927936">October 5, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 <iframe width="600" height="515" src="http://www.youtube.com/embed/R3D5ncONdhI" frameborder="0" allowfullscreen></iframe>  
 
