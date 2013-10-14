@@ -19,17 +19,16 @@ permalink: /resources/
 
 ## Legal Hacking 
 
-* Legal Tech Blogs 
-* Legal Tech Tools 
+* [Examples of Legal Hacking](https://hackpad.com/Examples-of-Legal-Hacking-uH4sl0VLSOL) [startups, open goverment organizations, law schools, etc]
 
 ## The DC Legal Tech Community 
 
 #### DC Tech 
 
-* [Meetup Events](https://github.com/dclegalhackers/dclegalhackathon/blob/master/DC-tech-events.md)
+* [Meetup Groups](https://github.com/dclegalhackers/dclegalhackathon/blob/master/DC-tech-events.md)
 
 #### DC Law
 
-* Law School Events
-* ABA Chapters 
-* Meetup Events 
+* [Law School Events](https://www.google.com/calendar/embed?src=bu9evatrl9jrhgd701lk7mlc1o%40group.calendar.google.com&ctz=America/New_York%20%3Cbr%20/%3E)
+* [ABA Groups](http://www.americanbar.org/groups/view_all_groups.html)
+* [DC Meetup Events](https://www.google.com/calendar/embed?src=dclegalhackers%40gmail.com&ctz=America/New_York) 
