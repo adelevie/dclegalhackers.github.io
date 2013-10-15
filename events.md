@@ -17,8 +17,8 @@ permalink: /events/
 
 ### What's a "legal hackathon"?  
 
-A legal hackathon is an event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking. During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their "legal hacks."
-* Fall 2013 Legal Hackathon at Fastcase; October 5, 2013  
+A legal hackathon is an event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues. The hackathon will present a unique problem for legal hackers to solve, with topics ranging from current policy debates to the role of technology in legal practice and policymaking. During the legal hackathon, the teams will work together on a tech- or policy-based solution to the issue presented. Although you don't have to be a coder to participate, we strongly encourage non-tech participants to work together with coders on their "legal hacks."  
+* [Fall 2013 Legal Hackathon at Fastcase; October 5, 2013](/legalhackathons)
 
 ## Workshops  
 * Coming soon  
