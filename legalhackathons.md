@@ -11,7 +11,7 @@ On October 5, 2013, DC Legal Hackers hosted their first DC Legal Hackathon at [F
 
 ### The Setup 
 
-Prior to DC Legal Hackers first ever Legal Hackathon, the group reached out to the legal, tech, and open government community to gather for an Issue Spotting Happy Hour where the group [identified problems and pain points](https://github.com/dclegalhackers/ideas/blob/master/ideas.md) that existed within their (law or tech) work and brainstormed on ways to solve them. Jameson Dempsey and Rebecca Williams, DC Legal Hacker co-organizers met up with the Legal Services Coporation staff to expand upon their problem idenitified at the Issue Spotting Happy Hour. Problems in hand, the DC Legal Hackers gathered to hack on real legal and tech issues they faced every day.  
+Prior to DC Legal Hackers first ever Legal Hackathon, the group reached out to the local legal, tech, and open government communities to gather for an Issue Spotting Happy Hour where the group [identified problems and pain points](https://github.com/dclegalhackers/ideas/blob/master/ideas.md) that existed within their (law or tech) work and brainstormed ways to solve them. Jameson Dempsey and Rebecca Williams, DC Legal Hacker co-organizers, met up with the Legal Services Corporation staff to further discuss the access to justice technical issue identied at the meetup. Problems in hand, the DC Legal Hackers gathered to hack on real legal and tech issues they faced every day.  
 
 <img src="http://31.media.tumblr.com/5fa89fa8be5e50b90d0d036c2f7946a6/tumblr_muexg6SkcN1s13242o1_1280.jpg" alt="Drawing" style="width: 600px;"/>  
 
