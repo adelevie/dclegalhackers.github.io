@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legalhackathon/
+permalink: /legalhackathons/
 ---
 # Fall 2013 Legal Hackathon 
 
