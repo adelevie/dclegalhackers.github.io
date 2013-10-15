@@ -48,7 +48,7 @@ Eric Mill, along with Lindsay Young, Erroll Grannum, and Keith Leonard (of Fastc
 <iframe width="600" height="515" src="http://www.youtube.com/embed/SlmDEDNV7d0" frameborder="0" allowfullscreen></iframe> 
 _Eric Mill explains his United States Glossary #LegalHack._ 
 
-#### [new DC Code Parsing](https://github.com/openlawdc/dc-decoded)  
+#### [*New* DC Code Parsing](https://github.com/openlawdc/dc-decoded)  
 
 In addition to assisting Legal Services Corporation on their map quest, Tom Macwright sought assistance on updating [DCCode.org](www.dccode.org) by creating a new parser for the newest code edition. To read more about the DC Code project, see Tom's eureka [moment](http://macwright.org/2013/02/20/you-cannot-have-the-code.html) and Robert Richard's [fantastic timeline](http://legalinformatics.wordpress.com/2013/04/05/freeing-the-dc-code/) of how the code was freed. 
 
