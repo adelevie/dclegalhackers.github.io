@@ -33,22 +33,27 @@ Check out the great round ups from our co-conspirators, [Open Gov Foundation](ht
 
 #### [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)  
 
+David Zvenyach, chief counsel for the DC Council, and major proponent of the [DC Code project](www.dccode.org) worked on a Python scraper for DC’s contracts, gathering procurement data, improving the searchability, and most importantly creating peramlinks for contract information that after fulfilled leaves the current DC site. 
+
 #### [US Glossary Annotation project](https://github.com/unitedstates/glossary)  
 
-<iframe width="600" height="515" src="http://www.youtube.com/embed/SlmDEDNV7d0" frameborder="0" allowfullscreen></iframe>  
+Eric Mill, along with Lindsay Young, Erroll Grannum, and Keith Leonard (of Fastcase) worked on a glossary the Unite States project on GitHub. A tool where lawyers and non-techies alike can through Prose.io define legal terms and then have those definitions turned into data and applied to synced apps. 
+
+<iframe width="600" height="515" src="http://www.youtube.com/embed/SlmDEDNV7d0" frameborder="0" allowfullscreen></iframe> 
+_Eric Mill explains his United States Glossary #LegalHack._ 
 
 #### [new DC Code Parsing](https://github.com/openlawdc/dc-decoded)  
 
-"David Zvenyach, chief lawyer for the DC Council, continued his personal transformation into a role model for government lawyers everywhere by working on a Python scraper for DC’s procurement contracts. In case you forgot, Zvenyach is also the one responsible, on the government side, for opening the DC Code back in April."
+In addition to assisting Legal Services Corporation on their map quest :), Tom Macwright sought assistance on updating [DCCode.org](www.dccode.org) by creating a new parser for the newest code edition. To read more about the DC Code project, see Tom's eureka [moment](http://macwright.org/2013/02/20/you-cannot-have-the-code.html) and Robert Richard's [fanastic timeline](http://legalinformatics.wordpress.com/2013/04/05/freeing-the-dc-code/) of how the code was freed. 
 
 #### [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker)  
 
 <img src="http://25.media.tumblr.com/f918ce2393ca3562499c1efff6b8bb2f/tumblr_muexg6SkcN1s13242o2_1280.jpg" alt="Drawing" style="width: 600px;"/>
 
-"The team at the Open Gov Foundation forked StackEdit to devise a Markdown-based format for legal drafting. Alan deLevie wrote a tool to autolink legal citations inside it, using my unitedstates/citation parser as a foundation."  
+DC Legal Hacker co-organizer, Ruby programer, and 3L, Alan deLevie, wrote a tool to autolink legal citations, using Eric Mill's unitedstates/citation parser as a foundation.
 
 #### [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit)
 
 <img src="http://31.media.tumblr.com/ba91e8583bb4d59f827660421ffe3f68/tumblr_muexg6SkcN1s13242o3_1280.jpg" alt="Drawing" style="width: 600px;"/>
 
-"The team at the Open Gov Foundation forked StackEdit to devise a Markdown-based format for legal drafting."
+Open Gov Foundation forked StackEdit to devise a Markdown-based format for legal drafting.
