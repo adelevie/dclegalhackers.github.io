@@ -1,2 +1,7 @@
 language: ruby
 script: "bundle exec jekyll build"
+
+deploy:
+  provider: pypi
+  user: "rebeccawilliams"
+  password: "blood182" # should be encrypted with `travis encrypt`
