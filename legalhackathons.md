@@ -6,7 +6,7 @@ permalink: /legalhackathons/
 
 Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hackathon at [Fastcase](www.fastcase.com). 
 
-<img src="http://24.media.tumblr.com/573ef5b8b1e9a76305d2d8a9cbad478d/tumblr_muexg6SkcN1s13242o5_1280.jpg" alt="Drawing" style="width: 600px;"/>
+<img src="http://24.media.tumblr.com/573ef5b8b1e9a76305d2d8a9cbad478d/tumblr_muexg6SkcN1s13242o5_1280.jpg" alt="Drawing" style="width: 700px;"/>
 
 ### The Day
 
