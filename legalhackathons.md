@@ -62,4 +62,7 @@ Open Gov Foundation forked StackEdit to devise a Markdown-based format for legal
 
 <img src="http://25.media.tumblr.com/f918ce2393ca3562499c1efff6b8bb2f/tumblr_muexg6SkcN1s13242o2_1280.jpg" alt="Drawing" style="width: 600px;"/>  
 
+<blockquote class="twitter-tweet"><p>Automagically add links to legal citations within markdown text: <a href="https://t.co/K2dd9KRNnB">https://t.co/K2dd9KRNnB</a> Supports USC, CFR, and DC Code (so far) <a href="https://twitter.com/search?q=%23LegalHack&amp;src=hash">#LegalHack</a></p>&mdash; Alan deLevie (@adelevie) <a href="https://twitter.com/adelevie/statuses/386598438999044096">October 5, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
 DC Legal Hacker co-organizer, Ruby programer, and 3L, Alan deLevie, wrote a tool to autolink legal citations, using Eric Mill's unitedstates/citation parser as a foundation.  
