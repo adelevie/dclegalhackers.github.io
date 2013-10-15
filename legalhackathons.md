@@ -42,6 +42,6 @@ The [Agenda](https://github.com/dclegalhackers/dclegalhackathon/blob/master/Agen
 
 #### [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit)
 
-<img src="http://31.media.tumblr.com/ba91e8583bb4d59f827660421ffe3f68/tumblr_muexg6SkcN1s13242o3_1280.jpg" alt="Drawing" style="width: 600px;"/>
+<img src="http://31.media.tumblr.com/ba91e8583bb4d59f827660421ffe3f68/tumblr_muexg6SkcN1s13242o3_1280.jpg" alt="Drawing" style="width: 500px;"/>
 
 
