@@ -2,8 +2,6 @@
 layout: default
 permalink: /legalhackathon/
 ---
-
-
 # Fall 2013 Legal Hackathon 
 
 Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hackathon at Fastcase. 
@@ -38,13 +36,12 @@ The [Agenda](https://github.com/dclegalhackers/dclegalhackathon/blob/master/Agen
 
 #### [new DC Code Parsing](https://github.com/openlawdc/dc-decoded)  
 
-#### [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker) 
+#### [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker)  
 
 <img src="http://25.media.tumblr.com/f918ce2393ca3562499c1efff6b8bb2f/tumblr_muexg6SkcN1s13242o2_1280.jpg" alt="Drawing" style="width: 500px;"/>
 
-#### * [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit)
+#### [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit)
 
 <img src="http://31.media.tumblr.com/ba91e8583bb4d59f827660421ffe3f68/tumblr_muexg6SkcN1s13242o3_1280.jpg" alt="Drawing" style="width: 600px;"/>
 
-#### [DC Legal Hackers Website building](https://github.com/dclegalhackers/dclegalhackers.github.io)  
 
