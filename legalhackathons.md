@@ -5,11 +5,13 @@ permalink: /legalhackathons/
 
 # Fall 2013 Legal Hackathon 
 
-Last Saturday, October 5, 2013, DC Legal Hackers hosted their first DC Legal Hackathon at [Fastcase](www.fastcase.com). 
+On October 5, 2013, DC Legal Hackers hosted their first DC Legal Hackathon at [Fastcase](www.fastcase.com). 
 
 <img src="http://24.media.tumblr.com/573ef5b8b1e9a76305d2d8a9cbad478d/tumblr_muexg6SkcN1s13242o5_1280.jpg" alt="Drawing" style="width: 600px;"/>  
 
-### The Day  
+### The Setup 
+
+Prior to DC Legal Hackers first ever Legal Hackathon, the group reached out to the legal, tech, and open government community to gather for an Issue Spotting Happy Hour where the group [identified problems and pain points](https://github.com/dclegalhackers/ideas/blob/master/ideas.md) that existed within their (law or tech) work and brainstormed on ways to solve them. Jameson Dempsey and Rebecca Williams, DC Legal Hacker co-organizers met up with the Legal Services Coporation staff to expand upon their problem idenitified at the Issue Spotting Happy Hour. Problems in hand, the DC Legal Hackers gathered to hack on real legal and tech issues they faced every day.  
 
 <img src="http://31.media.tumblr.com/5fa89fa8be5e50b90d0d036c2f7946a6/tumblr_muexg6SkcN1s13242o1_1280.jpg" alt="Drawing" style="width: 600px;"/>  
 
@@ -20,11 +22,9 @@ The [Legal Hackathon](https://github.com/dclegalhackers/dclegalhackathon/) start
 
 After the GitHub 101 introduction for non-techies, the tables were turned, with a Legal Access 101 presentation for techies, featuring Jessie Posilkin and Glenn Rawdon from Legal Services Corporation who explained the overarching access to justice issue, as well as Legal Services Corporation's specific mapping problem. As it stood, the LSC website search tool only offered the ability to search on the basis of state and county. Because counties can be very large, and sometimes the LSC service areas are not drawn on a county basis, the search function is not as helpful as it can be (and in some cases leads to confusing results). See [Massachusetts](http://grants.lsc.gov/about-grants/where-we-fund/massachusetts) as an example. LSC was looking to improve their search tool so it would be able to take a zip code as input and return the nearby locations in the assigned service area. LSC's Access to Justice project was chosen beforehand as a project to feature at the hackathon because it was a specific problem with technical and non-technical components. 
 
-In addition to [LSC's Mapping Project](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md), and the building of the [DC Legal Hackers' website](dclegalhackers.github.io), the following projects were hacked on: [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts), [US Glossary Annotation project](https://github.com/unitedstates/glossary), [new DC Code Parsing](https://github.com/openlawdc/dc-decoded), [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker), [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit). See more information about how those projects turned out below. After the hacking, the gang went out for celebratory drink. Not a first hackathon!  
+In addition to [LSC's Mapping Project](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md), and the building of the [DC Legal Hackers' website](www.github.com/dclegalhackers/dclegalhackers.github.io), the following projects were hacked on: [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts), [US Glossary Annotation project](https://github.com/unitedstates/glossary), [new DC Code Parsing](https://github.com/openlawdc/dc-decoded), [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker), [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit). See more information about how those projects turned out below.
 
-Lastly, check out the great round ups from our co-conspirators, [Open Gov Foundation](http://opengovfoundation.tumblr.com/post/63569079653/dc-legal-hackers-inaugural-hackathon-october-5), and US Glossary Annotator, [Eric Mill](https://www.konklone.com/post/legal-hacking-in-dc), as well.
-
-### Projects Hacked On  
+### Projects #LegalHack-ed On 
 
 #### [LSC Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)  
 <img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>
@@ -57,6 +57,11 @@ In addition to assisting Legal Services Corporation on their map quest, Tom Macw
 <img src="http://31.media.tumblr.com/ba91e8583bb4d59f827660421ffe3f68/tumblr_muexg6SkcN1s13242o3_1280.jpg" alt="Drawing" style="width: 600px;"/>
 
 Open Gov Foundation forked StackEdit to devise a Markdown-based format for legal drafting.
+
+### Success!
+
+After the hacking, the gang went out for celebratory drink. Not a first hackathon! Lastly, check out the great round ups from our co-conspirators, [Open Gov Foundation](http://opengovfoundation.tumblr.com/post/63569079653/dc-legal-hackers-inaugural-hackathon-october-5), and US Glossary Annotator, [Eric Mill](https://www.konklone.com/post/legal-hacking-in-dc), as well.
+
 
 #### [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker)  
 
