@@ -22,7 +22,7 @@ After the GitHub 101 introduction for non-techies, the tables were turned, with 
 
 In addition to [LSC's Mapping Project](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md), and the building of the [DC Legal Hackers' website](dclegalhackers.github.io), the following projects were hacked on: [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts), [US Glossary Annotation project](https://github.com/unitedstates/glossary), [new DC Code Parsing](https://github.com/openlawdc/dc-decoded), [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker), [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit). See more information about how those projects turned out below. After the hacking, the gang went out for celebratory drink. Not a first hackathon!  
 
-Lastly, check out the great round ups from our co-conspirators, [Open Gov Foundation](http://opengovfoundation.tumblr.com/post/63569079653/dc-legal-hackers-inaugural-hackathon-october-5), and US Glossary Annotator, [Eric Mill](https://www.konklone.com/post/legal-hacking-in-dc), as well.</p>
+Lastly, check out the great round ups from our co-conspirators, [Open Gov Foundation](http://opengovfoundation.tumblr.com/post/63569079653/dc-legal-hackers-inaugural-hackathon-october-5), and US Glossary Annotator, [Eric Mill](https://www.konklone.com/post/legal-hacking-in-dc), as well.
 
 ### Projects Hacked On  
 
@@ -52,14 +52,14 @@ _Eric Mill explains his United States Glossary #LegalHack._
 
 In addition to assisting Legal Services Corporation on their map quest, Tom Macwright sought assistance on updating [DCCode.org](www.dccode.org) by creating a new parser for the newest code edition. To read more about the DC Code project, see Tom's eureka [moment](http://macwright.org/2013/02/20/you-cannot-have-the-code.html) and Robert Richard's [fantastic timeline](http://legalinformatics.wordpress.com/2013/04/05/freeing-the-dc-code/) of how the code was freed. 
 
-#### [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker)  
-
-<img src="http://25.media.tumblr.com/f918ce2393ca3562499c1efff6b8bb2f/tumblr_muexg6SkcN1s13242o2_1280.jpg" alt="Drawing" style="width: 600px;"/>  
-
-DC Legal Hacker co-organizer, Ruby programer, and 3L, Alan deLevie, wrote a tool to autolink legal citations, using Eric Mill's unitedstates/citation parser as a foundation.  
-
 #### [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit)  
 
 <img src="http://31.media.tumblr.com/ba91e8583bb4d59f827660421ffe3f68/tumblr_muexg6SkcN1s13242o3_1280.jpg" alt="Drawing" style="width: 600px;"/>
 
 Open Gov Foundation forked StackEdit to devise a Markdown-based format for legal drafting.
+
+#### [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker)  
+
+<img src="http://25.media.tumblr.com/f918ce2393ca3562499c1efff6b8bb2f/tumblr_muexg6SkcN1s13242o2_1280.jpg" alt="Drawing" style="width: 600px;"/>  
+
+DC Legal Hacker co-organizer, Ruby programer, and 3L, Alan deLevie, wrote a tool to autolink legal citations, using Eric Mill's unitedstates/citation parser as a foundation.  
