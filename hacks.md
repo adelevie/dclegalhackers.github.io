@@ -4,6 +4,7 @@ permalink: /projects/
 ---
 
 ## Fall 2013 Legal Hackathon Projects
+* Read about the Access to Justice Hackathon [here](http://dclegalhackers.org/fall2013legalhackathon/)
 * [Access to Justice; LSC mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)
 * [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)
 * [A glossary for the United States](https://github.com/unitedstates/glossary)
