@@ -40,9 +40,3 @@ Open Gov Foundation forked StackEdit to devise a Markdown-based format for legal
 
 <blockquote class="twitter-tweet"><p>Automagically add links to legal citations within markdown text: <a href="https://t.co/K2dd9KRNnB">https://t.co/K2dd9KRNnB</a> Supports USC, CFR, and DC Code (so far) <a href="https://twitter.com/search?q=%23LegalHack&amp;src=hash">#LegalHack</a></p>&mdash; Alan deLevie (@adelevie) <a href="https://twitter.com/adelevie/statuses/386598438999044096">October 5, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>   
-
-
-## Past Projects by DC Legal Hackers
-
-* [Open Law DC](https://github.com/openlawdc/)
-
