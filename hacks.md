@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /hacks/
+permalink: /hackathons/
 ---
 
-## Fall 2013 Legal Hackathon Projects
+## Fall 2013 Access to Justice Legal Hackathon Projects
 
 #### [Legal Service Corporation Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)  
 <img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>  
