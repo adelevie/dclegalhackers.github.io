@@ -6,7 +6,7 @@ permalink: /hacks/
 ## Fall 2013 Legal Hackathon Projects
 
 #### [LSC Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)  
-<img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>
+<img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>  
 During the hackathon LSC, and hackers, including Tom Macwright, converted service area shapefiles to open/web-friendly geoJSON and plotted service centers, to create new and helpful ways for low-income individuals to search for their appropriate LSC location. LSC signed up for their first GitHub account during the hackathon: 
 
 <blockquote class="twitter-tweet"><p>YES! <a href="https://twitter.com/LSCtweets">@LSCtweets</a> is now on Github. <a href="http://t.co/BYhl2KlCzL">http://t.co/BYhl2KlCzL</a> with a project up and everything. <a href="https://twitter.com/search?q=%23LegalHack&amp;src=hash">#LegalHack</a></p>&mdash; Jessie Posilkin (@jposi) <a href="https://twitter.com/jposi/statuses/386509591413927936">October 5, 2013</a></blockquote>
