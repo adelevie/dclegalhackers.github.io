@@ -7,7 +7,7 @@ permalink: /fall2013legalhackathon/
 
 On October 5, 2013, DC Legal Hackers hosted their first DC Legal Hackathon at [Fastcase](www.fastcase.com). 
 
-<img src="http://24.media.tumblr.com/573ef5b8b1e9a76305d2d8a9cbad478d/tumblr_muexg6SkcN1s13242o5_1280.jpg" alt="Drawing" style="width: 400px;"/>  
+<img src="http://24.media.tumblr.com/573ef5b8b1e9a76305d2d8a9cbad478d/tumblr_muexg6SkcN1s13242o5_1280.jpg" alt="Drawing" style="width: 600px;"/>  
 
 ### The Setup 
 
@@ -27,7 +27,7 @@ In addition to [LSC's Mapping Project](https://github.com/LegalServicesCorporati
 ### Projects Hacked On  
 
 #### [LSC Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)  
-<img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 400px;"/>
+<img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>
 
 During the hackathon LSC, and hackers, including Tom Macwright, converted service area shapefiles to open/web-friendly geoJSON and plotted service centers, to create new and helpful ways for low-income individuals to search for their appropriate LSC location. LSC signed up for their first GitHub account during the hackathon: 
 
@@ -54,13 +54,13 @@ In addition to assisting Legal Services Corporation on their map quest, Tom Macw
 
 #### [Stackedit fork for legislative drafting](https://github.com/opengovfoundation/stackedit)  
 
-<img src="http://31.media.tumblr.com/ba91e8583bb4d59f827660421ffe3f68/tumblr_muexg6SkcN1s13242o3_1280.jpg" alt="Drawing" style="width: 400px;"/>
+<img src="http://31.media.tumblr.com/ba91e8583bb4d59f827660421ffe3f68/tumblr_muexg6SkcN1s13242o3_1280.jpg" alt="Drawing" style="width: 600px;"/>
 
 Open Gov Foundation forked StackEdit to devise a Markdown-based format for legal drafting.
 
 #### [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker)  
 
-<img src="http://25.media.tumblr.com/f918ce2393ca3562499c1efff6b8bb2f/tumblr_muexg6SkcN1s13242o2_1280.jpg" alt="Drawing" style="width: 400px;"/>  
+<img src="http://25.media.tumblr.com/f918ce2393ca3562499c1efff6b8bb2f/tumblr_muexg6SkcN1s13242o2_1280.jpg" alt="Drawing" style="width: 600px;"/>  
 
 <blockquote class="twitter-tweet"><p>Automagically add links to legal citations within markdown text: <a href="https://t.co/K2dd9KRNnB">https://t.co/K2dd9KRNnB</a> Supports USC, CFR, and DC Code (so far) <a href="https://twitter.com/search?q=%23LegalHack&amp;src=hash">#LegalHack</a></p>&mdash; Alan deLevie (@adelevie) <a href="https://twitter.com/adelevie/statuses/386598438999044096">October 5, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
