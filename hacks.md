@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /projects/
+permalink: /hacks/
 ---
 
 ## Fall 2013 Legal Hackathon Projects
