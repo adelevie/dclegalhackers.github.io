@@ -5,19 +5,17 @@ permalink: /hacks/
 
 ## Fall 2013 Legal Hackathon Projects
 
-#### [LSC Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)  
+#### [Legal Service Corporation Mapping](https://github.com/LegalServicesCorporation/LSC-Mapping/blob/master/README.md)  
 <img src="https://pbs.twimg.com/media/BV1000XIQAADHvo.jpg" alt="Drawing" style="width: 600px;"/>  
-During the hackathon LSC, and hackers, including Tom Macwright, converted service area shapefiles to open/web-friendly geoJSON and plotted service centers, to create new and helpful ways for low-income individuals to search for their appropriate LSC location. LSC signed up for their first GitHub account during the hackathon: 
 
-<blockquote class="twitter-tweet"><p>YES! <a href="https://twitter.com/LSCtweets">@LSCtweets</a> is now on Github. <a href="http://t.co/BYhl2KlCzL">http://t.co/BYhl2KlCzL</a> with a project up and everything. <a href="https://twitter.com/search?q=%23LegalHack&amp;src=hash">#LegalHack</a></p>&mdash; Jessie Posilkin (@jposi) <a href="https://twitter.com/jposi/statuses/386509591413927936">October 5, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
+Legal Services Corporation offers civil legal services to low-income individuals on the basis of particular "service areas," which are defined on the basis of county, city, town, or other lines, as defined by Congress. LSC providers have locations within these services areas, and are only allowed to provide legal services within those areas. Therefore, it's important for low-income individuals to know which LSC locations can serve them (and, relatedly, which of those locations is closest to them). As it stands, the LSC search tool only offers the ability to search on the basis of state and county. Because counties can be very large, and sometimes the LSC service areas are not drawn on a county basis, the search function is not as helpful as it can be (and in some cases leads to confusing results). During the hackathon, DC Legal Hackers and lSC staff opened up the underlying Legal Services mapping data to create new and helpful ways for low-income individuals to search for their appropriate LSC location.
 
 <iframe width="600" height="515" src="http://www.youtube.com/embed/R3D5ncONdhI" frameborder="0" allowfullscreen></iframe>  
 _Tom Macwright explains the shapefile conversion._  
 
 #### [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)  
 
-David Zvenyach, chief counsel for the DC Council, worked on a Python scraper for DC’s contracts, gathering procurement data, improving their search-ability (including lawyer information), and most importantly creating permalinks for contract information that left the site after the contract was completed. This project practically makes it easier to search DC contract information for potential legal issues and provides additional accountability and transparency to the financial proceedings of DC.  
+David Zvenyach, chief counsel for the DC Council, worked on a Python scraper for DC’s contracts, gathering procurement data, improving search-ability, and most importantly creating permalinks for contract information that previously left the site after the contract was completed. This project makes it easier to search for DC contract information for potential legal issues and provides additional accountability and transparency to the financial proceedings of DC.  
 
 #### [US Glossary Annotation project](https://github.com/unitedstates/glossary)  
 
