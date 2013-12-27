@@ -19,7 +19,7 @@ David Zvenyach, chief counsel for the DC Council, worked on a Python scraper for
 
 #### [US Glossary Annotation project](https://github.com/unitedstates/glossary)  
 
-Eric Mill, along with Lindsay Young, Erroll Grannum, and Keith Leonard (of Fastcase) worked on a glossary the Unite States project on GitHub. A tool where lawyers and non-techies alike can through Prose.io define legal terms and then have those definitions turned into data and applied to synced apps. 
+Eric Mill, along with Lindsay Young, Erroll Grannum, and Keith Leonard (of Fastcase) worked on a glossary, as part of the /unitedstates project on GitHub. A tool where lawyers and non-techies alike can through Prose.io define legal terms and then have those definitions turned into data and applied to synced apps. 
 
 <iframe width="600" height="515" src="http://www.youtube.com/embed/SlmDEDNV7d0" frameborder="0" allowfullscreen></iframe> 
 _Eric Mill explains his United States Glossary #LegalHack._ 
