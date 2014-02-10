@@ -2,11 +2,8 @@
 layout: default
 ---
 ## About 
-Technology bustles ahead, but our legal tools and tech related policy hardly reflect this. What gives? This monthly meetup challenges Legal Hackers to catch legal tools and policy up with technology. Join us as we tackle these tough problems and create tangible solutions, through: discussions, speakers, demos, lessons (yes, coding), and quarterly hackathons. Our discussions will be aimed at creating proposed resolutions on the spot, so bring your brains and your portable computing devices!
-
-### What is a "legal hacker"?
-
-A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.
+Legal Hackers explore and develop creative solutions to some of the most pressing issues at the intersection of technology and law through Meetups, conferences, workshops, and hackathons. We spot issues and opportunities where technology can improve and inform the practice of law and where law can adapt to rapidly changing technology. 
+We explore; we discuss; we create. We are Legal Hackers. We are the DC Chapter.
 
 ## Organizers
 
