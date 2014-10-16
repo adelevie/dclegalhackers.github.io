@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 ---
 
-#####October 16, 2014
+October 16, 2014
 
 ####DC Legal Hackers Statement on Legal Hackers LLC’s Trademark Application 
 
